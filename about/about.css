@@ -229,7 +229,7 @@ body { overflow-y: scroll; } /* 기본 스크롤 유지 */
 
   /*************about***********/
   .topimg{
-    position: fixed; left: 50%; transform: translateX(-50%); transform: translateY(-450%);
+    position: fixed; left: 33vw; transform: translateX(-50%); transform: translateY(-450%);
   }
   .about2{
     position: relative;
